@@ -1,0 +1,43 @@
+
+  @media screen and (min-width: 1800px){
+    ul{
+      padding: 10px 150px !important;
+    }
+  }
+  
+  @media screen and (max-width: 1799px) {
+    ul{
+      padding: 10px 80px !important;
+    }
+  }
+  
+  @media screen and (max-width: 1439px) {
+    ul{
+      padding: 10px 60px !important;
+    }
+  }
+  
+  @media screen and (max-width: 1199px) {
+    ul{
+      padding: 10px 50px !important;
+    }
+  }
+  
+  @media screen and (max-width: 991px) {
+    ul{
+      padding: 10px 40px !important;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    ul{
+      padding: 10px 20px !important;
+    }
+  }
+  
+  @media screen and (max-width: 599px){
+    ul{
+      padding: 10px !important;
+    }
+  }
+  
